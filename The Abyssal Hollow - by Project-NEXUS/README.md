@@ -45,7 +45,7 @@ Project-NEXUS - by 亜空開発機構
 
 ## ❱ 更新履歴【ChangeLog】
 https://discord.com/channels/1066668454192623636/1253389552194949273  
-β-beta Release: 2026/8/28 ~
+β-beta Release: 2026/8/28 ~  
 α-alpha Release: 2026/7/26 ~
 
 ## ❱ Download  
