@@ -49,6 +49,6 @@ https://discord.com/channels/1066668454192623636/1253389552194949273
 α-alpha Release: 2026/7/26 ~
 
 ## ❱ Download  
-[__＞＞今すぐ冒険を始める！＜＜__]([https://nemonowa.github.io/404](https://github.com/nexusource/O-SourceArsenal/releases/tag/twow))
+[__＞＞今すぐ冒険を始める！＜＜__](https://raw.githubusercontent.com/nexusource/Project-NEXUS/refs/heads/main/The%20Abyssal%20Hollow%20-%20by%20Project-NEXUS/%5BMC-world%5D%20The%20Abyssal%20Hollow%20%5Bv1.20.4%5D.zip)
 
 (2026/07/10)
