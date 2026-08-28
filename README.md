@@ -47,5 +47,5 @@ https://discord.com/channels/1066668454192623636/1253389552194949273
 
 ## ❱ Download  
 [__＞＞今すぐ冒険を始める！＜＜__](https://drive.google.com/uc?id=1_fTZHy7KvKvKPt16z1krUL47wZPkO43T)
-<td><a href="https://raw.githubusercontent.com/nexusource/Project-NEXUS/refs/heads/main/The%20Abyssal%20Hollow%20-%20by%20Project-NEXUS/media/3.jpg"><img src="https://raw.githubusercontent.com/nexusource/Project-NEXUS/refs/heads/main/The%20Abyssal%20Hollow%20-%20by%20Project-NEXUS/media/0.jpg" width="220"></a></td>  
+[(https://raw.githubusercontent.com/nemonowa/nemonowa.github.io/refs/heads/main/banner.png)]
 (2026/07/10)
