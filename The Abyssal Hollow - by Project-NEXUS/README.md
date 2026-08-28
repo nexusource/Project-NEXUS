@@ -15,13 +15,13 @@
 ❱ World: 不還の深淵虚窟アビサルホロウ
 ❱ DataPack: 𝐍𝐞𝐨𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
 ❱ ResourcePacks: 𝐍𝐞𝐨𝐓𝐞𝐱𝐭𝐮𝐫𝐞𝐬
-❱ Version: Build v0.0.2 for MC1.20.4
+❱ Version: Build v0.0.4 for MC1.20.4
 ❱ Release: 2026/7/26 ~
 ❱ Author: 緑青建設 & StudioNEXUS
 ```
 
 ## ❱ 導入【Introduction】  
-1. 配布サイトから「[The Abyssal Hollow.zip](https://github.com/nexusource/O-SourceArsenal/releases/tag/twow)」をダウンロード！
+1. 配布サイトから「[The Abyssal Hollow.zip](https://raw.githubusercontent.com/nexusource/Project-NEXUS/refs/heads/main/The%20Abyssal%20Hollow%20-%20by%20Project-NEXUS/%5BMC-world%5D%20The%20Abyssal%20Hollow%20%5Bv1.20.4%5D.zip)」をダウンロード！
 2. 解凍して下記のPATHに配置。
 3. Minecraft1.20.4で起動して冒険開始！
 ```Path
@@ -31,13 +31,22 @@
 4. Fabricの軽量化MOD「sodium」や影MOD「ComplementaryUnbound」を導入するとQOLが向上します！  
 
 ## ❱ 原題【OriginalTitle】  
-𝐌𝐀𝐃𝐄 𝐈𝐍 𝐀𝐁𝐘𝐒𝐒
+The Abyssal Hollow
 
 ## 作風【Concept Image】  
 地底旅行（Jベルヌ）・センターオブジアース…など
 
 ## ❱ 制作【Product Studio】  
 Project-NEXUS - by 亜空開発機構
+
+## ❱ 利用規約【Terms & Conditions】
+配信、動画利用はOKです。
+この作品は諸関係者の熱意と労力、各関係者の善意で成り立っています。特に竹間書房様には、作品の迷惑になる場合は即時掲載を削除する旨を連絡しています。下記の迷惑行為はやめてください。許可のない再配布と誰かを害する迷惑行為、ブランドイメージを損なう行為を禁じます。国際法、日本国法、所在地法に則り公序良俗に反する迷惑行為を禁じます。其の上で上記の規約と総合規約を遵守してください。
+
+## ❱ 更新履歴【ChangeLog】
+https://discord.com/channels/1066668454192623636/1253389552194949273
+β-beta Release: 2026/8/28 ~
+α-alpha Release: 2026/7/26 ~
 
 ## ❱ Download  
 [__＞＞今すぐ冒険を始める！＜＜__]([https://nemonowa.github.io/404](https://github.com/nexusource/O-SourceArsenal/releases/tag/twow))
