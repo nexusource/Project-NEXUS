@@ -45,9 +45,6 @@
 ## ❱ 原題【OriginalTitle】  
 The Abyssal Hollow
 
-## 作風【Concept Image】  
-地底旅行（Jベルヌ）・センターオブジアース…など
-
 ## ❱ 制作【Product Studio】  
 Project-NEXUS - by 亜空開発機構
 
