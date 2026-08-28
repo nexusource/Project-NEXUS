@@ -40,8 +40,8 @@
 サポートは下記Discordサーバーで行います。
 https://discord.gg/ax2HpwXmjx
 
-## ❱ 利用規約【Terms & Conditions】
-https://docs.google.com/document/d/1U3Bq5qwXf6alOduejbvxDDh64Ph9zVrA7f2W5GyEvvc
+## ❱ 総合規約【Terms & Conditions】
+https://sites.google.com/view/soraflete/eula
 
 ## ❱ 更新履歴【ChangeLog】
 https://discord.com/channels/1066668454192623636/1253389552194949273
