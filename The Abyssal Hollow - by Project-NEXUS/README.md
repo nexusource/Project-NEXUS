@@ -10,7 +10,9 @@
 <td><a href="https://raw.githubusercontent.com/nexusource/Project-NEXUS/refs/heads/main/The%20Abyssal%20Hollow%20-%20by%20Project-NEXUS/media/9.jpg"><img src="https://raw.githubusercontent.com/nexusource/Project-NEXUS/refs/heads/main/The%20Abyssal%20Hollow%20-%20by%20Project-NEXUS/media/9.jpg" width="600"></a></td>
 </tr>
 </table>
-[__＞＞すべて見る！＜＜__](https://github.com/nexusource/Project-NEXUS/blob/main/The%20Abyssal%20Hollow%20-%20by%20Project-NEXUS/media/.neo.md#-%E3%81%99%E3%81%B9%E3%81%A6%E8%A6%8B%E3%82%8B)
+
+[__＞＞すべて見る！＜＜__](https://github.com/nexusource/Project-NEXUS/blob/main/The%20Abyssal%20Hollow%20-%20by%20Project-NEXUS/media/.neo.md)
+
 ## ❱ 序章【Prologue】  
 異空の羅針盤に導かれて、あなたは奈落の大穴『アビサルホロウ』を辿り着く。
 神秘の孤島を穿つ巨大な縦穴。直径約1000m、深さは未知。
