@@ -2,13 +2,6 @@
 記憶：𝐏𝐫𝐨𝐣𝐞𝐜𝐭✯𝐍𝐄𝐗𝐔𝐒の一般公開可能な情報を発信する艦外通信網であり最外殻機構。異空旅団が開発したあらゆる兵器がオープンソースで全世界に向けて格納されているリポジトリ。
 
 ## ❱ 概要【Information】
-[![nexusource](https://raw.githubusercontent.com/nemonowa/nemonowa.github.io/refs/heads/main/banner.png)](https://nexusource.github.io)
-[![Discord](https://img.shields.io/discord/1233036571243188296?color=5865f2&label=&logo=discord&logoColor=ffffff)](https://discord.gg/nqx8esTwzS)
-[![Twitter](https://img.shields.io/badge/X-@yourhandle-000000?logo=x&logoColor=ffffff)](https://x.com/yourhandle)
-[![YouTube](https://img.shields.io/badge/YouTube-チャンネルを見る-ff0000?logo=youtube&logoColor=ffffff)](https://www.youtube.com/@あなたのチャンネルID)
-[![Niconico](https://img.shields.io/badge/Niconico-動画を見る-231815?logo=nicovideo&logoColor=white)](https://www.nicovideo.jp/user/YOUR_USER_ID)
-[![SUZURI](https://img.shields.io/badge/SUZURI-グッズを見る-222222)](https://suzuri.jp/argonautenemo)
-[![GitHub](https://img.shields.io/badge/GitHub-nemonowa-24292e?logo=github&logoColor=ffffff)](https://github.com/nemonowa)
 
 ```
 ❱ Project: 𝐍𝐄𝐗𝐔𝐒
@@ -19,6 +12,13 @@
 ❱ Release: 2025/7/26 ~
 ❱ Author: NEXUS異空旅団
 ```
+[![nexusource](https://raw.githubusercontent.com/nemonowa/nemonowa.github.io/refs/heads/main/banner.png)](https://nexusource.github.io)
+[![Discord](https://img.shields.io/discord/1233036571243188296?color=5865f2&label=&logo=discord&logoColor=ffffff)](https://discord.gg/nqx8esTwzS)
+[![Twitter](https://img.shields.io/badge/X-@yourhandle-000000?logo=x&logoColor=ffffff)](https://x.com/yourhandle)
+[![YouTube](https://img.shields.io/badge/YouTube-チャンネルを見る-ff0000?logo=youtube&logoColor=ffffff)](https://www.youtube.com/@あなたのチャンネルID)
+[![Niconico](https://img.shields.io/badge/Niconico-動画を見る-231815?logo=nicovideo&logoColor=white)](https://www.nicovideo.jp/user/YOUR_USER_ID)
+[![SUZURI](https://img.shields.io/badge/SUZURI-グッズを見る-222222)](https://suzuri.jp/argonautenemo)
+[![GitHub](https://img.shields.io/badge/GitHub-nemonowa-24292e?logo=github&logoColor=ffffff)](https://github.com/nemonowa)
 
 ## ❱ 導入【Introduction】
 1. [Project-NEXUS.zip](https://drive.google.com/uc?id=1_fTZHy7KvKvKPt16z1krUL47wZPkO43T) をダウンロード
