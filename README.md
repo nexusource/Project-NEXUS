@@ -36,8 +36,8 @@
 （絶賛作成中なので、動かなくても何回かやり直してください。それでも動かなければ質問等お気軽に！）
 
 ## ❱ 対応窓口【Support】
-サポートは下記Discordサーバーで行います。
-https://discord.gg/ax2HpwXmjx
+サポートは上記の[Discord](https://discord.gg/ax2HpwXmjx)サーバーで行います。
+
 
 ## ❱ 総合規約【Terms & Conditions】
 https://sites.google.com/view/soraflete/eula
