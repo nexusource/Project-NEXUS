@@ -6,8 +6,8 @@
 [![Discord](https://img.shields.io/discord/1233036571243188296?color=5865f2&label=&logo=discord&logoColor=ffffff)](https://discord.gg/nqx8esTwzS)
 [![Twitter](https://img.shields.io/badge/X-@yourhandle-000000?logo=x&logoColor=ffffff)](https://x.com/yourhandle)
 [![YouTube](https://img.shields.io/badge/YouTube-チャンネルを見る-ff0000?logo=youtube&logoColor=ffffff)](https://www.youtube.com/@あなたのチャンネルID)
-[![Niconico](https://img.shields.io/badge/[Niconico-動画を見る-231815?logo=nicovideo&logoColor=white)](https://www.nicovideo.jp/user/YOUR_USER_ID)
-[![SUZURI](https://img.shields.io/badge/SUZURI-グッズを見る-222222?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABWElEQVQ4jZXTvU4CURTG8Y9xFTpYwU/gCa7AKjhZWBgo6sXLn4AVbKBbn9VQBO7MIRP4AMdphhRhuEIsEm2EK3i59x3knt93WGHf6zt/3P+f9/zPCEzjHGoA5zjAPfjELsN8Z2YxFqjDPWvYwXlgG1neZ1n8xVwXtgK6YhwHYiwvU+2YQFcZf+wOhFzrA+R3iMx7RK2ZkwVXUCPZnUeHcf3CPYt1Y4eGAa3tEXcRe4Y9GBpaHq4wTXM39r3V51gXGmMtvH1nWAU6uqO+yr/GEU1hh5PbtWYrcAdMT7LJGkScnxpymk+vRbT7OKSTjZ7yp4ZoN86YxEpzjN+fYL7MW6Ib6+PXlAAAAAElFTkSuQmCC&logoColor=white)](https://suzuri.jp/argonautenemo)
+[![Niconico](https://img.shields.io/badge/Niconico-動画を見る-231815?logo=nicovideo&logoColor=white)](https://www.nicovideo.jp/user/YOUR_USER_ID)
+[![SUZURI](https://img.shields.io/badge/SUZURI-グッズを見る-222222)](https://suzuri.jp/argonautenemo)
 [![GitHub](https://img.shields.io/badge/GitHub-nemonowa-24292e?logo=github&logoColor=ffffff)](https://github.com/nemonowa)
 
 ```
