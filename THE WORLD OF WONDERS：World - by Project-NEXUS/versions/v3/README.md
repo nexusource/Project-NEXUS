@@ -1,4 +1,4 @@
-# [🌾｜第三章：祝祭と豊穣の黄金穀倉アップデート！](https://github.com/nexusource/Project-NEXUS/tree/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS/versions/v3)
+# [🌾｜第三章：祝祭と豊穣の黄金穀倉アップデート！](https://github.com/nexusource/Project-NEXUS/tree/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS/versions/v3/README.md)
 説明：MinecraftアクションRPG配布マップ『CerestaFesta』第三都市「ルクスイーファ」の実装、新職業2種、新アイテム約300種、新エンティティ約100種、新スキル約15種、新ボス4体、既存職業の全面改修、等々を含む大型アップデートです！  
 <img src="v3.png" />
 [🍀｜豊穣の大自然島 -CerestaFesta-](https://github.com/nexusource/Project-NEXUS/blob/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS/README.md)
@@ -98,9 +98,10 @@ https://discord.com/channels/1066668454192623636/1253389552194949273
 公式サイト：https://sites.google.com/view/twow/  
 README：https://github.com/nexusource/Project-NEXUS/tree/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS  
 Discord：https://discord.gg/nqx8esTwzS  
+<img src="map.png" />
+
 
 # [__＞＞冒険を始める！＜＜__](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)
 
-<img src="map.png" />
 
 (2026/09/25)
