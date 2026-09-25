@@ -21,16 +21,16 @@
 <img src="advancements.png" />
 
 ## ❱ 導入【Introduction】
-① 配布サイトから「[CerestaFesta.zip](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)」をダウンロード！  
-② 解凍して下記のPATHに配置。  
-③ Minecraft1.20.4で起動して冒険開始！  
+1 配布サイトから「[CerestaFesta.zip](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)」をダウンロード！  
+2 解凍して下記のPATHに配置。  
+3 Minecraft1.20.4で起動して冒険開始！  
 ```Path
 %userprofile%\AppData\Roaming\.minecraft\saves\<world>
 ```
 （以下任意）  
-④ resource.zip は解凍してresourcepacksフォルダに配置すると読み込み時間が大幅に短縮します！  
-⑤ 軽量化MOD「sodium」を導入するとより軽快に遊べます（要Fabric）  
-⑥ 影MOD「ComplementaryUnbound」を導入するとより美しい景色を楽しめます（要Iris）
+4 resource.zip は解凍してresourcepacksフォルダに配置すると読み込み時間が大幅に短縮します！  
+5 軽量化MOD「sodium」を導入するとより軽快に遊べます（要Fabric）  
+6 影MOD「ComplementaryUnbound」を導入するとより美しい景色を楽しめます（要Iris）
 
 ## ❱ 景色【Gallery】
 <img src="1.png" />
