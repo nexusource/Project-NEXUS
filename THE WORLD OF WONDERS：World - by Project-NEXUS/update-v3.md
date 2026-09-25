@@ -1,7 +1,7 @@
 # [🍀｜豊穣の大自然島 -CerestaFesta-](https://github.com/nexusource/Project-NEXUS/blob/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS/source/update-v3.md)
 説明：MinecraftアクションRPG配布マップ『CerestaFesta』第三都市「ルクスイーファ」の実装、新職業2種、新アイテム約300種、新エンティティ約100種、新スキル約15種、新ボス4体、既存職業の全面改修、等々を含む大型アップデートです！
 
-**～三章：祝祭と豊穣の黄金穀倉～**
+**～三章：祝祭と豊穣の黄金穀倉～**  
 物語:あなたは広大な黄金穀倉に到看した。点在する風車と見渡す限りの小麦畑。豊饒の景色の中心にはセレスタ最大都市ルクスイーファがある…その地下は激戦の狩戦場だった。ルクスの黄金麦を取り戻すため軍隊ガエルが巣喰う地下道へと… 
 
 ## ❱ 更新【Highlights】
