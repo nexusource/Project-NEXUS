@@ -4,8 +4,6 @@
 **～三章：祝祭と豊穣の黄金穀倉～**
 物語:あなたは広大な黄金穀倉に到看した。点在する風車と見渡す限りの小麦畑。豊饒の景色の中心にはセレスタ最大都市ルクスイーファがある…その地下は激戦の狩戦場だった。ルクスの黄金麦を取り戻すため軍隊ガエルが巣喰う地下道へと… 
 
----
-
 ## ❱ 更新【Highlights】
 ```
 - 第三章「黄金穀倉ルクスイーファ」を実装
@@ -21,7 +19,6 @@
 - 大幅な軽量化及び大規模な負荷対策の更新
 - Build v0.3.1 for MC1.20.4
 ```
----
 
 ## ❱ 導入【Introduction】
 1. 配布サイトから「[CerestaFesta.zip](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)」をダウンロード！
@@ -34,14 +31,10 @@
 4. resource.zip は解凍してresourcepacksフォルダに配置すると読み込み時間が大幅に短縮します！
 5. Fabricの軽量化MOD「sodium」や影MOD「ComplementaryUnbound」を導入するとQOLが向上します！
 
-
-
 ## ❱ 景色【Gallery】
 <img width="1377" height="670" alt="festa" src="https://github.com/user-attachments/assets/e5d65311-4bce-483b-814e-357e9d2a034d" />
 <img width="1920" height="1080" alt="2026-03-10_00 42 52" src="https://github.com/user-attachments/assets/eabfd055-6122-4bd6-9ceb-982064ed25f7" />
 <img width="1205" height="677" alt="adv" src="https://github.com/user-attachments/assets/eb619a3f-055c-4d26-9e2f-bf93f787beff" />
-
----
 
 ## ❱ 新職業を追加
 *戦い方の幅がさらに広がる*
@@ -51,27 +44,19 @@
 | 使役士官 | 詳細は近日公開 |
 | 医工士官 | 詳細は近日公開 |
 
----
-
 ## ❱ 既存職業を全面改修
 *コンボ技や連携プレイを重視した設計に再構築*
 
 既存の全職業を見直し、コンボ技や仲間との連携プレイを重視した設計に再構築しました。
-
----
 
 ## ❱ 第一章・第二章を全面リワーク
 *始まりの海岸、碧天牧場も生まれ変わる*
 
 既存の町・敵・ボスを一新し、遊び応えを大幅強化しました。
 
----
-
 ## ❱ ガイド機能を強化
 *迷わず冒険できるように*
 案内・チュートリアル要素を大幅に補強しました。
-
----
 
 ## ❱ 追加オプション
 *プレイスタイルのカスタマイズが可能に*
@@ -82,8 +67,6 @@
 | ステータス補助 | ステータス間の補助設定 |
 | 防具損壊無効化 | ボス戦での防具損壊を無効化 |
 | 全体発光 | 全体発光オプションを追加 |
-
----
 
 ## ❱ 情報【Information】
 ```
