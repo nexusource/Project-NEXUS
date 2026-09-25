@@ -101,5 +101,6 @@ Discord：https://discord.gg/nqx8esTwzS
 ## ❱ Download
 [__＞＞冒険を始める！＜＜__](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)
 
-(2026/09/25)
 <img src="map.png" />
+
+(2026/09/25)
