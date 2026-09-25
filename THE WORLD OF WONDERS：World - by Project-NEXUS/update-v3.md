@@ -21,15 +21,15 @@
 ```
 
 ## ❱ 導入【Introduction】
-1. 配布サイトから「[CerestaFesta.zip](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)」をダウンロード！
-2. 解凍して下記のPATHに配置。
-3. Minecraft1.20.4で起動して冒険開始！
+① 配布サイトから「[CerestaFesta.zip](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)」をダウンロード！
+② 解凍して下記のPATHに配置。
+③ Minecraft1.20.4で起動して冒険開始！
 ```Path
 %userprofile%\AppData\Roaming\.minecraft\saves\<world>
 ```
 （以下任意）  
-4. resource.zip は解凍してresourcepacksフォルダに配置すると読み込み時間が大幅に短縮します！  
-5. Fabricの軽量化MOD「sodium」や影MOD「ComplementaryUnbound」を導入するとQOLが向上します！  
+④ resource.zip は解凍してresourcepacksフォルダに配置すると読み込み時間が大幅に短縮します！  
+⑤ Fabricの軽量化MOD「sodium」や影MOD「ComplementaryUnbound」を導入するとQOLが向上します！  
 
 ## ❱ 景色【Gallery】
 <img width="1377" height="670" alt="festa" src="https://github.com/user-attachments/assets/e5d65311-4bce-483b-814e-357e9d2a034d" />
