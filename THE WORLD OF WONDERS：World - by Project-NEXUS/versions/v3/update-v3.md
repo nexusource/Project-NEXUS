@@ -4,6 +4,7 @@
 **～祝祭と豊穣の黄金穀倉～**  
 
 ## ❱ 更新【Highlights】
+<img src="advancements.png" />
 ```
 - 第三章「黄金穀倉ルクスイーファ」を実装
 - 第二章・第一章を全面リワーク（既存の町・敵・ボスを一新）
@@ -18,7 +19,6 @@
 - 大幅な軽量化及び大規模な負荷対策の更新
 - Build v0.3.1 for MC1.20.4
 ```
-<img src="advancements.png" />
 
 ## ❱ 導入【Introduction】
 ① 配布サイトから「[CerestaFesta.zip](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)」をダウンロード！  
