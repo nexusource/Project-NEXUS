@@ -21,9 +21,9 @@
 ```
 
 ## ❱ 導入【Introduction】
-① 配布サイトから「[CerestaFesta.zip](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)」をダウンロード！
-② 解凍して下記のPATHに配置。
-③ Minecraft1.20.4で起動して冒険開始！
+① 配布サイトから「[CerestaFesta.zip](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)」をダウンロード！  
+② 解凍して下記のPATHに配置。  
+③ Minecraft1.20.4で起動して冒険開始！  
 ```Path
 %userprofile%\AppData\Roaming\.minecraft\saves\<world>
 ```
