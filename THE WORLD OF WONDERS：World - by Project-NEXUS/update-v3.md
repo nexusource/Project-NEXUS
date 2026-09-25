@@ -29,7 +29,8 @@
 ```
 （以下任意）  
 ④ resource.zip は解凍してresourcepacksフォルダに配置すると読み込み時間が大幅に短縮します！  
-⑤ Fabricの軽量化MOD「sodium」や影MOD「ComplementaryUnbound」を導入するとQOLが向上します！  
+⑤ Fabricの軽量化MOD「sodium」を導入するとより軽快に遊べます。  
+⑥ Fabricの影MOD「ComplementaryUnbound」を導入するとより美しい景色を楽しめます。
 
 ## ❱ 景色【Gallery】
 <img width="1377" height="670" alt="festa" src="https://github.com/user-attachments/assets/e5d65311-4bce-483b-814e-357e9d2a034d" />
