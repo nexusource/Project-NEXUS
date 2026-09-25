@@ -48,16 +48,17 @@
 ❱ Author: NEXUS異空旅団
 ```
 
-## ❱ 導入【Introduction】  
-1. 配布サイトから「[CerestaFesta.zip](https://github.com/nexusource/O-SourceArsenal/releases/download/twow/CerestaFesta.zip)」をダウンロード！
-2. 解凍して下記のPATHに配置。
-3. Minecraft1.20.4で起動して冒険開始！
+## ❱ 導入【Introduction】
+1 配布サイトから「[CerestaFesta.zip](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)」をダウンロード！  
+2 解凍して下記のPATHに配置。  
+3 Minecraft1.20.4で起動して冒険開始！  
 ```Path
 %userprofile%\AppData\Roaming\.minecraft\saves\<world>
 ```
 （以下任意）  
-4. resource.zip は解凍してresourcepacksフォルダに配置すると読み込み時間が大幅に短縮します！  
-5. Fabricの軽量化MOD「sodium」や影MOD「ComplementaryUnbound」を導入するとQOLが向上します！  
+4 resource.zip は解凍してresourcepacksフォルダに配置すると読み込み時間が大幅に短縮します！  
+5 軽量化MOD「sodium」を導入するとより軽快に遊べます（要Fabric）  
+6 影MOD「ComplementaryUnbound」を導入するとより美しい景色を楽しめます（要Iris）
 
 ## ❱ 原題【OriginalTitle】  
 𝐓𝐇𝐄 𝐖𝐎𝐑𝐋𝐃 𝐎𝐅 𝐖𝐎𝐍𝐃𝐄𝐑𝐒
