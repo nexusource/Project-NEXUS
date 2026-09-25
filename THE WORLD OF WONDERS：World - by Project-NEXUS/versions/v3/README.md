@@ -98,10 +98,9 @@ https://discord.com/channels/1066668454192623636/1253389552194949273
 公式サイト：https://sites.google.com/view/twow/  
 README：https://github.com/nexusource/Project-NEXUS/tree/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS  
 Discord：https://discord.gg/nqx8esTwzS  
+
+# ❱ [__＞＞冒険を始める！＜＜__](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)
+
 <img src="map.png" />
-
-
-# [__＞＞冒険を始める！＜＜__](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)
-
 
 (2026/09/25)
