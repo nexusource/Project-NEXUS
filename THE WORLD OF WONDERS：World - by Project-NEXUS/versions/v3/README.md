@@ -55,6 +55,7 @@
 *コンボ技や連携プレイを重視した設計に再構築*
 
 既存の全職業を見直し、コンボ技や仲間との連携プレイを重視した設計に再構築しました。
+<img src="job.png" />
 
 ## ❱ 第一章・第二章を全面リワーク
 *始まりの海岸、碧天牧場も生まれ変わる*
@@ -98,8 +99,7 @@ https://discord.com/channels/1066668454192623636/1253389552194949273
 README：https://github.com/nexusource/Project-NEXUS/tree/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS  
 Discord：https://discord.gg/nqx8esTwzS  
 
-## ❱ Download
-[__＞＞冒険を始める！＜＜__](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)
+# [__＞＞冒険を始める！＜＜__](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)
 
 <img src="map.png" />
 
