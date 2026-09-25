@@ -18,7 +18,7 @@
 - 大幅な軽量化及び大規模な負荷対策の更新
 - Build v0.3.1 for MC1.20.4
 ```
-<img src="1.png" />
+<img src="advancements.png" />
 
 ## ❱ 導入【Introduction】
 ① 配布サイトから「[CerestaFesta.zip](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)」をダウンロード！  
