@@ -7,6 +7,7 @@
 ---
 
 ## ❱ 更新【Highlights】
+```
 - 第三章「黄金穀倉ルクスイーファ」を実装
 - 第二章・第一章を全面リワーク（既存の町・敵・ボスを一新）
 - 新職業「使役士官」「医工士官」を追加
@@ -19,7 +20,7 @@
 - 追加オプションでプレイスタイルをカスタマイズ可能に
 - 大幅な軽量化及び大規模な負荷対策の更新
 - Build v0.3.1 for MC1.20.4
-
+```
 ---
 
 ## ❱ 導入【Introduction】
@@ -86,22 +87,22 @@
 
 ## ❱ 情報【Information】
 ```
-❱ World: TheMysteriousIsland-of-CerestaFesta
-❱ DataPack: 𝐍𝐞𝐨𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
-❱ ResourcePacks: 𝐍𝐞𝐨𝐓𝐞𝐱𝐭𝐮𝐫𝐞𝐬
-❱ Version: Build v0.3.1 for MC1.20.4
-❱ Copyright: SoraFlete(c)
-❱ Release: 2025/7/26 ~
-❱ Author: NEXUS亜空旅団
+- World:The Celestial Island
+- DataPack: 𝐍𝐞𝐨𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
+- ResourcePacks: 𝐍𝐞𝐨𝐓𝐞𝐱𝐭𝐮𝐫𝐞𝐬
+- Version: Build v0.3.1 for MC1.20.4
+- Copyright: SoraFlete(c)
+- Release: 2025/7/26 ~
+- Author: NEXUS亜空旅団
 ```
 
 ## ❱ 開発履歴【ChangeLog】
 https://discord.com/channels/1066668454192623636/1253389552194949273
 
 ## ❱ 連繫【Link of NEXUS】
-公式サイト：https://sites.google.com/view/twow/
-README：https://github.com/nexusource/Project-NEXUS/tree/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS
-Discord：https://discord.gg/nqx8esTwzS
+公式サイト：https://sites.google.com/view/twow/  
+README：https://github.com/nexusource/Project-NEXUS/tree/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS  
+Discord：https://discord.gg/nqx8esTwzS  
 
 ## ❱ Download
 [__＞＞冒険を始める！＜＜__](https://github.com/nexusource/Project-NEXUS/releases/download/twow/CerestaFesta.zip)
