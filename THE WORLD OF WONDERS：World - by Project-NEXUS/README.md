@@ -83,10 +83,9 @@
 Project-NEXUS - by 亜空開発機構
 
 ## ❱ 連繫【Link of NEXUS】
-公式サイト：https://sites.google.com/view/twow/
-README：https://github.com/nexusource/Project-NEXUS/tree/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS
-Discord：https://discord.gg/nqx8esTwzS
-
+公式サイト：https://sites.google.com/view/twow/  
+README：https://github.com/nexusource/Project-NEXUS/tree/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS  
+Discord：https://discord.gg/nqx8esTwzS  
 
 ## ❱ Download  
 [__＞＞今すぐ冒険を始める！＜＜__](https://github.com/nexusource/O-SourceArsenal/releases/download/twow/CerestaFesta.zip)
