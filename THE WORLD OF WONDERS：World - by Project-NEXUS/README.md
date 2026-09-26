@@ -1,5 +1,5 @@
 # [🍀｜豊穣の大自然島 -CerestaFesta-](https://github.com/nexusource/Project-NEXUS/blob/main/THE%20WORLD%20OF%20WONDERS%EF%BC%9AWorld%20-%20by%20Project-NEXUS/README.md)
-説明：Minecraftで遊べるアクションRPG配布マッププロジェクト。
+説明：Minecraftで遊べる超大規模オープンワールドA-RPG配布マッププロジェクト。
 
 ## ❱ 物語【Prologue】  
 神風に誘われて、あなたは神秘の孤島『セレスタフェスタ』に漂着する。どの航海図にもないこの島では女神【セレスタ】が信仰され、独特な文化や魔法体系が息づいているようだ。
